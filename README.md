@@ -1,2 +1,2 @@
 # life-audit-wheel
-INteractive Life Audit Tool for Fractal Coaching
+Interactive Life Audit Tool for Fractal Coaching
